@@ -1,5 +1,5 @@
 # H2O Remake
-A library that enables h2o model to be serializable in pickle.
+A library that to serialize h2o model with pickle.
 
 ## Description
 For those that use H2O (https://www.h2o.ai/) to train a model, we always challenged by the hassle to wrap the h2o model with scikit-learn pipeline (https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html#). 
